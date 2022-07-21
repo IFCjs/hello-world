@@ -29,7 +29,9 @@ This repository contains the examples for the official documentation of [IFC.js]
 
 ## Quick setup
 
-First, download this project or clone the repository and install the dependencies with `git clone https://github.com/IFCjs/hello-world`. You can then install the dependencies using `npm install` and build all the examples with `npm run build`. You can also build specific folders like this: `npm run build -- web-ifc-three`.
+First, download this project or clone the repository with `git clone https://github.com/IFCjs/hello-world`.
+You can then install the dependencies using `npm install` and build all the examples with `npm run build`.
+You can also build specific folders like this: `npm run build -- web-ifc-three`.
 
 You can then execute the examples serving them locally with any library of your choosing (e.g. [this one](https://www.npmjs.com/package/reload)).
 
