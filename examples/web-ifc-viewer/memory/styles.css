@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    overflow: hidden;
+}
+
+#viewer-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    width: 100%;
+    height: 100%;
+}
+
+#button-container {
+    display: flex;
+    flex-direction: column;
+    margin: 4rem 1rem;
+}
+
+#input-button{
+    z-index: 1;
+}
+
+#release-button {
+    width: 8rem;
+    margin-top: 1rem;
+    z-index: 1;
+}
